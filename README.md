@@ -25,13 +25,6 @@
   </a>
   &nbsp;&nbsp;
 
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/aakashk7092">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/CodeChef_logo.png"
-         width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;
-
   <!-- GitHub -->
   <a href="https://github.com/aakashk7092">
     <img src="https://skillicons.dev/icons?i=github" />
