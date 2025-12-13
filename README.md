@@ -1,11 +1,10 @@
-<!-- ================= HEADER ================= -->
 <h1 align="center">Hi, I'm Aakash Kumar</h1>
 
 <p align="center">
 <b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming (C++)</b>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&pause=1000&center=true&vCenter=true&width=560
@@ -16,21 +15,22 @@
   Consistency+and+Continuous+Improvement" />
 </p>
 
-<!-- ================= TECHNOLOGY ICONS ================= -->
+<!-- Clickable Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode,linkedin&perline=6" />
-</p>
-
-<!-- ================= QUICK LINKS ================= -->
-<p align="center">
-  <a href="https://leetcode.com/aakashkumar2005">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode">
+  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
-  <a href="https://www.codechef.com/users/aakashk7092">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef">
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/aakashk7092" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48" height="48"/>
   </a>
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin">
+  &nbsp;&nbsp;
+  <a href="https://github.com/aakashk7092" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
