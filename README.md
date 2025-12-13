@@ -19,29 +19,37 @@
 
 ## Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="50" height="50" alt="LeetCode"
-         style="vertical-align: middle;" />
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://leetcode.com/aakashkumar2005"
+         target="_blank"
+         title="LeetCode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+             width="48" height="48" alt="LeetCode" />
+      </a>
+    </td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center" width="140">
+      <a href="https://codeforces.com/profile/aakashkumar2005"
+         target="_blank"
+         title="Codeforces">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
+             width="56" height="56" alt="Codeforces" />
+      </a>
+    </td>
 
-  <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
-         width="60" height="60" alt="Codeforces"
-         style="vertical-align: middle;" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"
-         width="50" height="50" alt="LinkedIn"
-         style="vertical-align: middle;" />
-  </a>
-</p>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/"
+         target="_blank"
+         title="LinkedIn">
+        <img src="https://skillicons.dev/icons?i=linkedin"
+             width="48" height="48" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
+>
 
 
 
