@@ -20,49 +20,24 @@
 ## Profiles
 
 <p align="center">
-<svg width="560" height="130" viewBox="0 0 560 130" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Animated Border -->
-  <rect x="6" y="6" width="548" height="118" rx="20" ry="20"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-dasharray="14 10">
-    <animate attributeName="stroke-dashoffset"
-             from="0" to="240"
-             dur="8s"
-             repeatCount="indefinite" />
-  </rect>
-
-  <!-- LeetCode -->
   <a href="https://leetcode.com/aakashkumar2005" target="_blank">
-    <image x="120" y="34" width="44" height="44"
-           href="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
-    <text x="142" y="98" font-size="12" text-anchor="middle" fill="currentColor">
-      LeetCode
-    </text>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         width="48" height="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
-    <image x="258" y="34" width="44" height="44"
-           href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"/>
-    <text x="280" y="98" font-size="12" text-anchor="middle" fill="currentColor">
-      Codeforces
-    </text>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
+         width="48" height="48" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
-    <image x="396" y="34" width="44" height="44"
-           href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
-    <text x="418" y="98" font-size="12" text-anchor="middle" fill="currentColor">
-      LinkedIn
-    </text>
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         width="48" height="48" />
   </a>
-
-</svg>
 </p>
+
 
 ---
 
