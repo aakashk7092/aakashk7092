@@ -19,53 +19,37 @@
 
 ## Profiles
 
-<!-- Animated Border -->
-<p align="center">
-  <svg width="520" height="90" xmlns="http://www.w3.org/2000/svg">
-    <rect x="5" y="5" width="510" height="80" rx="18" ry="18"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-dasharray="12 10">
-      <animate attributeName="stroke-dashoffset"
-               from="0" to="200"
-               dur="6s"
-               repeatCount="indefinite" />
-    </rect>
-  </svg>
-</p>
-
-<!-- Icons (VISIBLE & SPACED) -->
 <table align="center">
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="140">
       <a href="https://leetcode.com/aakashkumar2005" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-             width="48" />
+             width="50" height="50" />
       </a>
       <br/>
-      <sub>LeetCode</sub>
+      <strong>LeetCode</strong>
     </td>
 
-    <td align="center" width="160">
+    <td align="center" width="140">
       <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-             width="48" />
+             width="50" height="50" />
       </a>
       <br/>
-      <sub>Codeforces</sub>
+      <strong>Codeforces</strong>
     </td>
 
-    <td align="center" width="160">
+    <td align="center" width="140">
       <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin"
-             width="48" />
+             width="50" height="50" />
       </a>
       <br/>
-      <sub>LinkedIn</sub>
+      <strong>LinkedIn</strong>
     </td>
   </tr>
 </table>
+
 
 ---
 
