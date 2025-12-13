@@ -1,35 +1,34 @@
 <h1 align="center">Hi, I'm Aakash Kumar</h1>
 
 <p align="center">
-<b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming (C++)</b>
+<b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming</b>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&pause=1000&center=true&vCenter=true&width=560
   &lines=Aspiring+Software+Engineer;
   C%2B%2B+Developer;
+  Python+Programmer;
   Data+Structures+and+Algorithms;
-  Competitive+Programming+Enthusiast;
-  Consistency+and+Continuous+Improvement" />
+  Competitive+Programming+Enthusiast" />
 </p>
 
-<!-- Clickable Icons -->
+<!-- ================= CLICKABLE ICONS ================= -->
 <p align="center">
-  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
+  <a href="https://leetcode.com/aakashkumar2005">
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/aakashk7092" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48" height="48"/>
+  <a href="https://www.codechef.com/users/aakashk7092">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/aakashk7092" target="_blank">
+  <a href="https://github.com/aakashk7092">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -62,6 +61,13 @@
 
 ---
 
+## Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,linux,vscode&perline=7" />
+</p>
+
+---
+
 ## C++ and Problem Solving Focus
 <p align="center">
   <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
@@ -89,10 +95,8 @@
 
 ## Current Focus
 - Daily practice of data structures and algorithms  
-- Strengthening C++ and analytical problem-solving skills  
+- Strengthening C++, Python & problem-solving skills  
 - Preparing for internships and full-time software engineering roles  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=blue&style=for-the-badge" />
