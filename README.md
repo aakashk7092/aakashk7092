@@ -19,50 +19,53 @@
 
 ## Profiles
 
+<!-- Animated Border -->
 <p align="center">
-<svg width="560" height="130" viewBox="0 0 560 130" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Animated Border -->
-  <rect x="6" y="6" width="548" height="118" rx="20" ry="20"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2"
-        stroke-dasharray="14 10">
-    <animate attributeName="stroke-dashoffset"
-             from="0" to="240"
-             dur="8s"
-             repeatCount="indefinite" />
-  </rect>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
-    <image x="120" y="34" width="44" height="44"
-           href="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
-    <text x="142" y="98" font-size="12" text-anchor="middle" fill="currentColor">
-      LeetCode
-    </text>
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
-    <image x="258" y="34" width="44" height="44"
-           href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"/>
-    <text x="280" y="98" font-size="12" text-anchor="middle" fill="currentColor">
-      Codeforces
-    </text>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
-    <image x="396" y="34" width="44" height="44"
-           href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
-    <text x="418" y="98" font-size="12" text-anchor="middle" fill="currentColor">
-      LinkedIn
-    </text>
-  </a>
-
-</svg>
+  <svg width="520" height="90" xmlns="http://www.w3.org/2000/svg">
+    <rect x="5" y="5" width="510" height="80" rx="18" ry="18"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-dasharray="12 10">
+      <animate attributeName="stroke-dashoffset"
+               from="0" to="200"
+               dur="6s"
+               repeatCount="indefinite" />
+    </rect>
+  </svg>
 </p>
+
+<!-- Icons (VISIBLE & SPACED) -->
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://leetcode.com/aakashkumar2005" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+             width="48" />
+      </a>
+      <br/>
+      <sub>LeetCode</sub>
+    </td>
+
+    <td align="center" width="160">
+      <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
+             width="48" />
+      </a>
+      <br/>
+      <sub>Codeforces</sub>
+    </td>
+
+    <td align="center" width="160">
+      <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin"
+             width="48" />
+      </a>
+      <br/>
+      <sub>LinkedIn</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -100,34 +103,13 @@
 
 ---
 
-## Technical Focus
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/Data%20Structures-Strong-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Competitive%20Programming-Active-purple?style=for-the-badge">
-</p>
-
----
-
-## Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aakashk7092/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## Selected Work
-- **LeetCode Solutions (C++)** – Topic-wise, interview-focused  
-- **Codeforces Solutions (C++)** – Rating-wise competitive programming practice  
-- **CodeChef Solutions** – Practice problems and contests  
-- **ESP32 RFID Asset Tracking System** – IoT-based project  
+- **LeetCode Solutions (C++)**  
+- **Codeforces Solutions (C++)**  
+- **CodeChef Practice Problems**  
+- **ESP32 RFID Asset Tracking System**
 
 ---
-
-## Current Focus
-- Daily DSA practice  
-- Improving problem-solving efficiency  
-- Preparing for internships and software engineering roles  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=blue&style=for-the-badge" />
