@@ -25,11 +25,6 @@
   </a>
   &nbsp;&nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/aakashk7092">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;&nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
