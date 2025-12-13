@@ -26,6 +26,8 @@
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=radical)
+![snake](https://raw.githubusercontent.com/aakashk7092/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+
 
 ## 🚀 Featured Work
 - 🔥 LeetCode Solutions (C++)
