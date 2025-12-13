@@ -22,21 +22,27 @@
 <p align="center">
   <a href="https://leetcode.com/aakashkumar2005" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="48" height="48" />
+         width="50" height="50" alt="LeetCode"
+         style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="48" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
+         width="60" height="60" alt="Codeforces"
+         style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"
-         width="48" height="48" />
+         width="50" height="50" alt="LinkedIn"
+         style="vertical-align: middle;" />
   </a>
 </p>
+
 
 
 ---
