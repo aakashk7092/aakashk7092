@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Aakash Kumar  
 
-<!--
-**aakashk7092/aakashk7092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Aspiring Software Engineer  
+🚀 Focused on DSA & Problem Solving using C++
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 💡 Solving **LeetCode problems daily**
+- 💻 Strong in **C++**
+- 🎯 Goal: Crack **Product-Based Companies**
+- 📚 Preparing DSA for placements & internships
+
+---
+
+## 🧠 Coding Profiles
+- 🔗 LeetCode: https://leetcode.com/aakashkumar2005  
+- 🔗 GitHub: https://github.com/aakashk7092  
+
+---
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest)
+
+---
+
+## 🛠️ Skills
+- C++
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=radical)
+
+---
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=radical)
+
+---
+
+## 🚀 LeetCode Solutions
+📂 Topic-wise C++ solutions available in my repositories  
+✔️ Clean code  
+✔️ Optimized logic  
+✔️ Interview-focused  
+
+---
+
+## 👀 Profile Views
+![Visitors](https://komarev.com/ghpvc/?username=aakashk7092&color=blue)
+
+---
+
+⭐ If you like my work, consider giving a star!
