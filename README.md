@@ -22,6 +22,15 @@
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest)
 
+
+## 🏆 CodeChef Stats
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=aakashk7092&theme=dark)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode)
+![CodeChef](https://img.shields.io/badge/CodeChef-Competitive-brown?style=for-the-badge&logo=codechef)
+![C++](https://img.shields.io/badge/C++-Strong-blue?style=for-the-badge)
+
+
 ---
 
 ## 🛠️ Skills
