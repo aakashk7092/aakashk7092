@@ -21,24 +21,24 @@
 
 <p align="center">
   <!-- LeetCode -->
-  <a href="https://leetcode.com/aakashkumar2005">
+  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="45" height="45" />
+         width="42" height="42" style="margin-right:20px;" />
   </a>
-  &nbsp;&nbsp;
 
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/aakashkumar2005">
+  <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="45" height="45" />
+         width="42" height="42" style="margin-right:20px;" />
   </a>
-  &nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         width="42" height="42" />
   </a>
 </p>
+
 
 ---
 
