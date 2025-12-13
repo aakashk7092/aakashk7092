@@ -16,8 +16,7 @@
 </p>
 
 ---
-
-## Profiles
+<h2>Profiles</h2>
 
 <table align="center">
   <tr>
@@ -49,7 +48,7 @@
     </td>
   </tr>
 </table>
->
+
 
 
 
