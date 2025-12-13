@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋 I'm Aakash Kumar</h1>
 
 <p align="center">
-🎓 B.Tech Student &nbsp;|&nbsp;
-💻 Aspiring Software Engineer &nbsp;|&nbsp;
-🔥 DSA & Competitive Programming (C++)
+<b>🎓 B.Tech Student | 💻 Aspiring Software Engineer | 🔥 DSA & Competitive Programming (C++)</b>
 </p>
 
 <p align="center">
@@ -21,10 +19,10 @@
 
 ---
 
-## 🧠 Coding Profiles
-- 🟠 **LeetCode:** https://leetcode.com/aakashkumar2005  
-- 🟤 **CodeChef:** https://www.codechef.com/users/aakashk7092  
-- ⚫ **GitHub:** https://github.com/aakashk7092  
+## 💻 Coding Profiles
+- 🟠 **LeetCode** → https://leetcode.com/aakashkumar2005  
+- 🟤 **CodeChef** → https://www.codechef.com/users/aakashk7092  
+- ⚫ **GitHub** → https://github.com/aakashk7092  
 
 ---
 
@@ -51,12 +49,14 @@
   <img src="https://raw.githubusercontent.com/aakashk7092/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
 </p>
 
+> 💚 Consistency over intensity — coding daily and improving step by step.
+
 ---
 
 ## 🚀 Featured Work
 - 🔥 **LeetCode Solutions (C++)** – Topic-wise & Optimized  
 - 🏆 **CodeChef Solutions** – Practice & Contests  
-- 📡 **ESP32 RFID Asset Tracking System** (IoT Project)
+- 📡 **ESP32 RFID Asset Tracking System** – Real-world IoT Project  
 
 ---
 
@@ -70,4 +70,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=blue&style=flat" />
 </p>
-
