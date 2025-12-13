@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aakash Kumar</h1>
 
 <p align="center">
-<b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming</b>
+  <b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming</b>
 </p>
 
 <p align="center">
@@ -17,34 +17,52 @@
 
 ---
 
-## Profile Links
+## Profiles
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://leetcode.com/aakashkumar2005" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-             width="48" height="48" />
-      </a>
-    </td>
+<p align="center">
+<svg width="560" height="130" viewBox="0 0 560 130" xmlns="http://www.w3.org/2000/svg">
 
-    <td align="center" width="120">
-      <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
-             width="48" height="48" />
-      </a>
-    </td>
+  <!-- Animated Border -->
+  <rect x="6" y="6" width="548" height="118" rx="20" ry="20"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset"
+             from="0" to="240"
+             dur="8s"
+             repeatCount="indefinite" />
+  </rect>
 
-    <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-             width="48" height="48" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
+    <image x="120" y="34" width="44" height="44"
+           href="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+    <text x="142" y="98" font-size="12" text-anchor="middle" fill="currentColor">
+      LeetCode
+    </text>
+  </a>
 
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
+    <image x="258" y="34" width="44" height="44"
+           href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"/>
+    <text x="280" y="98" font-size="12" text-anchor="middle" fill="currentColor">
+      Codeforces
+    </text>
+  </a>
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+    <image x="396" y="34" width="44" height="44"
+           href="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
+    <text x="418" y="98" font-size="12" text-anchor="middle" fill="currentColor">
+      LinkedIn
+    </text>
+  </a>
+
+</svg>
+</p>
 
 ---
 
@@ -99,10 +117,10 @@
 ---
 
 ## Selected Work
-- **LeetCode Solutions (C++)** – Topic-wise and interview-focused  
+- **LeetCode Solutions (C++)** – Topic-wise, interview-focused  
 - **Codeforces Solutions (C++)** – Rating-wise competitive programming practice  
 - **CodeChef Solutions** – Practice problems and contests  
-- **ESP32 RFID Asset Tracking System** – IoT-based real-world project  
+- **ESP32 RFID Asset Tracking System** – IoT-based project  
 
 ---
 
