@@ -4,6 +4,7 @@
 <b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming</b>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&pause=1000&center=true&vCenter=true&width=560
@@ -11,23 +12,33 @@
   C%2B%2B+Developer;
   Python+Programmer;
   Data+Structures+and+Algorithms;
-  Competitive+Programming+Enthusiast" />
+  Competitive+Programming+Enthusiast;
+  Consistency+and+Continuous+Improvement" />
 </p>
 
-<!-- ================= CLICKABLE ICONS ================= -->
+<!-- ================= CLICKABLE PROFILE ICONS ================= -->
 <p align="center">
+  <!-- LeetCode -->
   <a href="https://leetcode.com/aakashkumar2005">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         width="48" height="48" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/aakashk7092">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0a/CodeChef_logo.png"
+         width="48" height="48" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/aakashk7092">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
