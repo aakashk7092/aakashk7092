@@ -100,5 +100,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=blue&style=for-the-badge" />
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/aakashk7092)
 
