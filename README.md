@@ -21,8 +21,6 @@
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma)
 
-## 🏆 CodeChef Stats
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=aakashk7092&theme=dark)
 
 ## 📊 GitHub Stats
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=radical)
