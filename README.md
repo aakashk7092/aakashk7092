@@ -26,7 +26,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
       width="55"
       height="55"
-      style="margin: 0 18px;"
+      style="margin: 100px;"
       alt="LeetCode"
     />
   </a>
