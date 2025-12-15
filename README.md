@@ -23,7 +23,7 @@
   <!-- LeetCode -->
   <a href="https://leetcode.com/aakashkumar2005">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="45" height="45" />
+         width="145" height="145" />
   </a>
   &nbsp;&nbsp;
 
