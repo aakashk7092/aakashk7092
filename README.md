@@ -19,31 +19,34 @@
 
 <h2 align="center">🔗 Profile Links</h2>
 
-<p align="center">
-  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://leetcode.com/aakashkumar2005" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" />
+      </a>
+      <br/>
+      <b>LeetCode</b>
+    </td>
 
-  <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center" width="120">
+      <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="50" />
+      </a>
+      <br/>
+      <b>Codeforces</b>
+    </td>
 
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"
-         width="50" />
-  </a>
-</p>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+      </a>
+      <br/>
+      <b>LinkedIn</b>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>LeetCode</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Codeforces</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>LinkedIn</b>
-</p>
->
 
 
 ## Coding Profiles
