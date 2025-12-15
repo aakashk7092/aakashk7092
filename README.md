@@ -4,7 +4,7 @@
 <b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming</b>
 </p>
 ---
-    <h1 align = "centre"> **CONSISTENCY BEATS INTENSITY** </h1>
+<h1 align="center"> ---> CONSISTENCY BEATS INTENSITY <--- </h1>
 ---      
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
