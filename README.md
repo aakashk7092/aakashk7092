@@ -30,13 +30,14 @@
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/aakashkumar2005">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="85" height="105" />
+         width="145" height="105" />
   </a>
   &nbsp;&nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="145" height="105" />
+        
   </a>
 </p>
 
