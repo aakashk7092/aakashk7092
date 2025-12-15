@@ -17,30 +17,43 @@
 
 ---
 
-## Profile Links
+<h2 align="center">🔗 Profile Links</h2>
 
 <p align="center">
   <!-- LeetCode -->
-  <a href="https://leetcode.com/aakashkumar2005">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="145" height="145" />
+  <a href="https://leetcode.com/aakashkumar2005" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+      width="55"
+      height="55"
+      style="margin: 0 18px;"
+      alt="LeetCode"
+    />
   </a>
-  &nbsp;&nbsp;
 
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/aakashkumar2005">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="45" height="45" />
+  <a href="https://codeforces.com/profile/aakashkumar2005" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
+      width="55"
+      height="55"
+      style="margin: 0 18px;"
+      alt="Codeforces"
+    />
   </a>
-  &nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="55"
+      height="55"
+      style="margin: 0 18px;"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
----
 
 ## Coding Profiles
 - **LeetCode:** https://leetcode.com/aakashkumar2005  
