@@ -23,14 +23,14 @@
   <!-- LeetCode -->
   <a href="https://leetcode.com/aakashkumar2005">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="145" height="145" />
+         width="145" height="105" />
   </a>
   &nbsp;&nbsp;
 
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/aakashkumar2005">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="45" height="45" />
+         width="85" height="105" />
   </a>
   &nbsp;&nbsp;
 
