@@ -1,113 +1,91 @@
 <h1 align="center">Hi, I'm Aakash Kumar</h1>
 
 <p align="center">
-<b>B.Tech Student | Aspiring Software Engineer | Data Structures & Competitive Programming</b>
+<b>B.Tech Student | Aspiring Software Engineer | C++ & Data Structures</b>
 </p>
----
-<h1 align="center"> ---> CONSISTENCY BEATS INTENSITY <--- </h1>
----      
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&pause=1000&center=true&vCenter=true&width=560
-  &lines=Aspiring+Software+Engineer;
-  C%2B%2B+Developer;
-  Python+Programmer;
-  Data+Structures+and+Algorithms;
-  Competitive+Programming;
-  Consistency+and+Continuous+Improvement" />
+Consistency beats intensity.
 </p>
 
 ---
 
-## Profile Links
+## About Me
 
-<p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/aakashkumar2005">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="145" height="105" />
-  </a>
-  &nbsp;&nbsp;
+I am a B.Tech student focused on building strong fundamentals in **Data Structures, Algorithms, and C++**.  
+I actively practice competitive programming and work on system-level projects to understand how things work internally, not just how to write code.
 
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/aakashkumar2005">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg"
-         width="145" height="105" />
-  </a>
-  &nbsp;&nbsp;
+My current goal is to prepare for **software engineering internships and entry-level roles**.
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="145" height="105" />
-        
-  </a>
-</p>
-
-
+---
 
 ## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/aakashkumar2005">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="90"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/aakashkumar2005">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="90"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+  </a>
+</p>
+
+- **GitHub:** https://github.com/aakashk7092  
 - **LeetCode:** https://leetcode.com/aakashkumar2005  
 - **Codeforces:** https://codeforces.com/profile/aakashkumar2005  
 - **CodeChef:** https://www.codechef.com/users/aakashk7092  
-- **GitHub:** https://github.com/aakashk7092  
-- **LinkedIn:** https://www.linkedin.com/in/aakash-kumar-aa3093315/
 
 ---
 
-## LeetCode Statistics
+## Skills
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode&perline=6" />
 </p>
+
+- **Primary Language:** C++  
+- **Core Areas:** Data Structures, Algorithms  
+- **Focus:** Problem Solving, Cache Systems (LRU / LFU)
 
 ---
 
-## GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=radical" />
-</p>
+## Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=radical" />
-</p>
-
----
-
-## Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,linux,vscode&perline=7" />
-</p>
-
----
-
-## Technical Focus
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/Data%20Structures-Strong-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Competitive%20Programming-Active-purple?style=for-the-badge">
-</p>
-
----
-
-## Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aakashk7092/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## Selected Work
-- **LeetCode Solutions (C++)** – Topic-wise and interview-focused  
-- **Codeforces Solutions (C++)** – Rating-wise competitive programming practice  
-- **CodeChef Solutions** – Practice problems and contests  
+- **LRU Cache (C++)** – O(1) implementation using HashMap + Doubly Linked List  
+- **LFU Cache (C++)** – O(1) LFU with frequency tracking and LRU tie-breaking  
+- **LeetCode Solutions** – Topic-wise C++ solutions  
+- **Codeforces Practice** – Contest and problem-solving practice  
 - **ESP32 RFID Asset Tracking System** – IoT-based real-world project  
 
 ---
 
 ## Current Focus
+
 - Daily DSA practice  
-- Improving problem-solving efficiency  
+- Improving speed and accuracy in problem solving  
 - Preparing for internships and software engineering roles  
 
+---
+
+## Statistics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=blue&style=for-the-badge" />
+  <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=blue" />
 </p>
