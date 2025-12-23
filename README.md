@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aakash Kumar</h1>
 
 <p align="center">
-<b>B.Tech Student | Aspiring Software Engineer | C++ & Data Structures</b>
+<b>B.Tech Student | Aspiring Software Engineer | C++ | Data Structures & Algorithms</b>
 </p>
 
 <p align="center">
@@ -10,28 +10,34 @@ Consistency beats intensity.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a B.Tech student focused on building strong fundamentals in **Data Structures, Algorithms, and C++**.  
-I actively practice competitive programming and work on system-level projects to understand how things work internally, not just how to write code.
-
-My current goal is to prepare for **software engineering internships and entry-level roles**.
+- 🎓 B.Tech student focused on **Data Structures, Algorithms, and C++**
+- 🧠 Active in **competitive programming**
+- ⚙️ Interested in **system-level concepts** (how things work internally)
+- 🎯 Preparing for **software engineering internships & entry-level roles**
 
 ---
 
-## Coding Profiles
+## 🌐 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/aakashkumar2005">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="90"/>
+    <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/aakashkumar2005">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/aakashkumar2005">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="90"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="80"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
   </a>
 </p>
 
@@ -42,52 +48,61 @@ My current goal is to prepare for **software engineering internships and entry-l
 
 ---
 
-## Skills
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode" />
 </p>
 
 - **Primary Language:** C++  
-- **Core Areas:** Data Structures, Algorithms  
-- **Focus:** Problem Solving, Cache Systems (LRU / LFU)
+- **Core Areas:** Data Structures & Algorithms  
+- **Problem Solving:** Competitive Programming  
+- **Systems:** Cache Design (LRU / LFU)
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
-- **LRU Cache (C++)** – O(1) implementation using HashMap + Doubly Linked List  
-- **LFU Cache (C++)** – O(1) LFU with frequency tracking and LRU tie-breaking  
-- **LeetCode Solutions** – Topic-wise C++ solutions  
-- **Codeforces Practice** – Contest and problem-solving practice  
-- **ESP32 RFID Asset Tracking System** – IoT-based real-world project  
+- **LRU Cache (C++)** – O(1) using HashMap + Doubly Linked List  
+- **LFU Cache (C++)** – O(1) with frequency tracking & LRU tie-breaking  
+- **LeetCode DSA Repository** – Topic-wise structured C++ solutions  
+- **Codeforces Practice** – Contest & problem solving  
+- **ESP32 RFID Asset Tracking System** – Real-world IoT project  
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Daily DSA practice  
-- Improving speed and accuracy in problem solving  
-- Preparing for internships and software engineering roles  
+- Improving speed & accuracy  
+- Preparing for SDE internships  
 
 ---
 
-## Statistics
+## 📊 Coding & GitHub Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=github_dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=github_dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aakashk7092&theme=github-dark&hide_border=false" />
+</p>
+
+---
+
+## 📈 GitHub Commit Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashk7092&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashk7092&theme=github_dark&utcOffset=5.5" />
 </p>
 
 <p align="center">
@@ -96,7 +111,7 @@ My current goal is to prepare for **software engineering internships and entry-l
 
 ---
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
@@ -109,3 +124,10 @@ My current goal is to prepare for **software engineering internships and entry-l
   </picture>
 </p>
 
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐  
+<br/>
+Follow for more DSA & system-level projects
+</p>
