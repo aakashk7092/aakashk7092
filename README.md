@@ -12,10 +12,10 @@ Consistency beats intensity.
 
 ##  About Me
 
-- 🎓 B.Tech student focused on **Data Structures, Algorithms, and C++**
-- 🧠 Active in **competitive programming**
-- ⚙️ Interested in **system-level concepts** (how things work internally)
-- 🎯 Preparing for **software engineering internships & entry-level roles**
+-  B.Tech student focused on **Data Structures, Algorithms, and C++**
+-  Active in **competitive programming**
+-  Interested in **system-level concepts** (how things work internally)
+-  Preparing for **software engineering internships & entry-level roles**
 
 ---
 
