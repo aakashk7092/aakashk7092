@@ -10,7 +10,7 @@ Consistency beats intensity.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 B.Tech student focused on **Data Structures, Algorithms, and C++**
 - 🧠 Active in **competitive programming**
@@ -19,12 +19,10 @@ Consistency beats intensity.
 
 ---
 
-## 🌐 Coding Profiles
+##  Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/aakashkumar2005">
-    <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
-  </a>
+  <img width="65%" src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
 </p>
 
 <p align="center">
@@ -48,7 +46,7 @@ Consistency beats intensity.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode" />
@@ -61,7 +59,7 @@ Consistency beats intensity.
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 - **LRU Cache (C++)** – O(1) using HashMap + Doubly Linked List  
 - **LFU Cache (C++)** – O(1) with frequency tracking & LRU tie-breaking  
@@ -71,7 +69,7 @@ Consistency beats intensity.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Daily DSA practice  
 - Improving speed & accuracy  
@@ -79,30 +77,27 @@ Consistency beats intensity.
 
 ---
 
-## 📊 Coding & GitHub Statistics
+##  Coding & GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aakashk7092&theme=github-dark&hide_border=false" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=aakashk7092&theme=github-dark&hide_border=false" />
 </p>
 
 ---
 
-## 📈 GitHub Commit Activity
+##  GitHub Commit Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashk7092&theme=github_dark" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashk7092&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashk7092&theme=github_dark&utcOffset=5.5" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aakashk7092&theme=github_dark&utcOffset=5.5" />
 </p>
 
 <p align="center">
@@ -111,7 +106,7 @@ Consistency beats intensity.
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <picture>
@@ -127,7 +122,7 @@ Consistency beats intensity.
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐  
+ *Thanks for visiting my profile*   
 <br/>
 Follow for more DSA & system-level projects
 </p>
