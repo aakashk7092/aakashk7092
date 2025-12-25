@@ -127,4 +127,84 @@ Consistency beats intensity.
 <br/>
 Follow for more DSA & system-level projects
 </p>
-## Acadimics
+<svg width="100%" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1;
+      rx: 14;
+    }
+    .title {
+      fill: #e6edf3;
+      font-size: 22px;
+      font-weight: 700;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .label {
+      fill: #58a6ff;
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .text {
+      fill: #c9d1d9;
+      font-size: 14px;
+    }
+    .muted {
+      fill: #8b949e;
+      font-size: 13px;
+    }
+    .score {
+      fill: #3fb950;
+      font-weight: 700;
+    }
+    .section {
+      opacity: 0;
+      animation: fade 0.8s ease forwards;
+    }
+    .s1 { animation-delay: 0.2s; }
+    .s2 { animation-delay: 0.35s; }
+    .s3 { animation-delay: 0.5s; }
+
+    @keyframes fade {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect x="10" y="10" width="880" height="210" class="card"/>
+
+  <!-- Title -->
+  <text x="450" y="42" text-anchor="middle" class="title">
+    Academic Overview
+  </text>
+
+  <!-- B.Tech -->
+  <g class="section s1">
+    <text x="70" y="85" class="label">B.Tech – CSE</text>
+    <text x="70" y="108" class="text">Invertis University</text>
+    <text x="70" y="128" class="muted">Bareilly, Uttar Pradesh, India</text>
+    <text x="70" y="150" class="text">2nd Year (Pursuing)</text>
+    <text x="70" y="172" class="text">Score: <tspan class="score">84.27%</tspan></text>
+  </g>
+
+  <!-- Class XII -->
+  <g class="section s2">
+    <text x="360" y="85" class="label">Class XII</text>
+    <text x="360" y="108" class="text">Jawahar Navodaya Vidyalaya</text>
+    <text x="360" y="128" class="muted">Bareilly, Uttar Pradesh, India</text>
+    <text x="360" y="150" class="text">CBSE Board</text>
+    <text x="360" y="172" class="text">Score: <tspan class="score">82%</tspan></text>
+  </g>
+
+  <!-- Class X -->
+  <g class="section s3">
+    <text x="650" y="85" class="label">Class X</text>
+    <text x="650" y="108" class="text">Jawahar Navodaya Vidyalaya</text>
+    <text x="650" y="128" class="muted">Bareilly, Uttar Pradesh, India</text>
+    <text x="650" y="150" class="text">CBSE Board</text>
+    <text x="650" y="172" class="text">Score: <tspan class="score">92%</tspan></text>
+  </g>
+</svg>
+
