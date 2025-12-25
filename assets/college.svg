@@ -6,7 +6,7 @@
         font-size="22"
         font-family="Arial"
         fill="#79c0ff">
-    B.Tech – Computer Science & Engineering
+    B.Tech - Computer Science &amp; Engineering
   </text>
 
   <text x="30" y="80"
@@ -20,7 +20,7 @@
         font-size="14"
         font-family="Arial"
         fill="#8b949e">
-    2nd Year (Pursuing) • Score:
+    2nd Year (Pursuing) - Score:
     <tspan fill="#3fb950">84.27%</tspan>
   </text>
 </svg>
