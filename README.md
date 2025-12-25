@@ -129,7 +129,8 @@ Consistency beats intensity.
 
 ## Academics
 
-![College](https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/college.svg)
+![College]([https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/college1.svg](https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/college.svg
+))
 
 ![Class XII](https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/class12.svg)
 
