@@ -1,46 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150">
-  <!-- Card background -->
-  <rect
-    x="10"
-    y="10"
-    width="880"
-    height="130"
-    rx="16"
-    ry="16"
-    fill="#0d1117"
-    stroke="#58a6ff"
-    stroke-width="2"
-  />
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140">
+  <rect x="10" y="10" width="880" height="120" rx="14"
+        fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
 
-  <!-- Title -->
-  <text
-    x="30"
-    y="48"
-    fill="#79c0ff"
-    font-size="22"
-    font-weight="700"
-    font-family="Arial, Helvetica, sans-serif">
+  <text x="30" y="45"
+        font-size="22"
+        font-family="Arial"
+        fill="#79c0ff">
     B.Tech – Computer Science & Engineering
   </text>
 
-  <!-- University -->
-  <text
-    x="30"
-    y="82"
-    fill="#e6edf3"
-    font-size="17"
-    font-family="Arial, Helvetica, sans-serif">
+  <text x="30" y="80"
+        font-size="16"
+        font-family="Arial"
+        fill="#e6edf3">
     Invertis University, Bareilly, Uttar Pradesh, India
   </text>
 
-  <!-- Status & Score -->
-  <text
-    x="30"
-    y="112"
-    fill="#8b949e"
-    font-size="15"
-    font-family="Arial, Helvetica, sans-serif">
+  <text x="30" y="110"
+        font-size="14"
+        font-family="Arial"
+        fill="#8b949e">
     2nd Year (Pursuing) • Score:
-    <tspan fill="#3fb950" font-weight="700">84.27%</tspan>
+    <tspan fill="#3fb950">84.27%</tspan>
   </text>
 </svg>
