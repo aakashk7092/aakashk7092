@@ -11,6 +11,22 @@ Consistency beats intensity.
 ---
 
 ##  About Me
+<svg width="100%" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill:#0d1117; stroke:#a371f7; stroke-width:1.5; rx:16; }
+    .title { fill:#a371f7; font-size:20px; font-weight:700; font-family:Arial, Helvetica, sans-serif; }
+    .text { fill:#e6edf3; font-size:16px; }
+    .score { fill:#3fb950; font-weight:800; }
+  </style>
+
+  <rect x="10" y="10" width="880" height="120" class="card"/>
+  <text x="30" y="48" class="title">Class X (CBSE)</text>
+  <text x="30" y="78" class="text">
+    Jawahar Navodaya Vidyalaya, Bareilly, Uttar Pradesh • 
+    Score: <tspan class="score">92%</tspan>
+  </text>
+</svg>
+
 
 -  B.Tech student focused on **Data Structures, Algorithms, and C++**
 -  Active in **competitive programming**
