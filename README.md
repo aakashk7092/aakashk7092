@@ -122,17 +122,17 @@ Consistency beats intensity.
 
 <p align="center">
 
-  
- *Thanks for visiting my profile*   
+ 
 <br/>
-Follow for more DSA & system-level projects
+
 </p>
-## 🎓 Academics
 
-<img src="https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/college.svg" />
+## Academics
 
-<img src="https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/class12.svg" />
+![College](https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/college.svg)
 
-<img src="https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/class10.svg" />
->
+![Class XII](https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/class12.svg)
+
+![Class X](https://raw.githubusercontent.com/aakashk7092/aakashk7092/main/assets/class10.svg)
+
 
