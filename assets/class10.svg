@@ -1,0 +1,13 @@
+<svg width="900" height="130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="880" height="110" rx="16"
+        fill="#0d1117" stroke="#a371f7" stroke-width="2"/>
+
+  <text x="30" y="50" fill="#a371f7" font-size="22" font-weight="700"
+        font-family="Arial">Class X (CBSE)</text>
+
+  <text x="30" y="85" fill="#e6edf3" font-size="17"
+        font-family="Arial">
+    Jawahar Navodaya Vidyalaya, Bareilly •
+    <tspan fill="#3fb950" font-weight="700">92%</tspan>
+  </text>
+</svg>
