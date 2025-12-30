@@ -79,12 +79,12 @@ Consistency beats intensity.
 ##  Coding & GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=aakashk7092&theme=github-dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashk7092&theme=tokyonight"/>
 </p>
 
 ---
