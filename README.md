@@ -78,8 +78,13 @@ Consistency beats intensity.
 
 ##  Coding & GitHub Statistics
 
-![GitHub followers](https://img.shields.io/github/followers/aakashk7092?style=social)
-![GitHub stars](https://img.shields.io/github/stars/aakashk7092?style=social)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
+</p>
 
 
 
