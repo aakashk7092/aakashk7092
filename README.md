@@ -82,10 +82,6 @@ Consistency beats intensity.
   <img src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
-</p>
-
 
 
 
