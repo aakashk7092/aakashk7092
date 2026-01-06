@@ -78,14 +78,9 @@ Consistency beats intensity.
 
 ##  Coding & GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight" height="160"/>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/aakashk7092?style=social)
+![GitHub stars](https://img.shields.io/github/stars/aakashk7092?style=social)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight"/>
-</p>
 
 
 
