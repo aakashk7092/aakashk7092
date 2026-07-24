@@ -177,6 +177,16 @@ graph TD
   </a>
 </p>
 
+| Difficulty | Solved |
+|---|---|
+| Basic | 37 |
+| Easy | 35 |
+| Medium | 12 |
+| Hard | 0 |
+| **Total** | **84** |
+
+> ⚠️ The card above doesn't currently render Coding Score / Problem Solved / Monthly Score — that's a limitation of the third-party scraper (GfG appears to have changed how it displays that data). The table gives the same info accurately in the meantime.
+
 | Platform | Profile | Stats |
 |----------|---------|-------|
 | **LeetCode** | [aakashkumar2005](https://leetcode.com/aakashkumar2005) | 500+ problems, Hard tier |
@@ -190,17 +200,19 @@ graph TD
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=aakashk7092&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashk7092&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
+> ℹ️ If any card above shows broken for more than a few minutes, it's almost always the shared free hosting being rate-limited — not your README. Refresh after a bit, or see the note at the bottom of this file about self-hosting for a permanent fix.
 
 ---
 
