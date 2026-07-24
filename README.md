@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Aakash%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20%7C%20DSA%20%26%20Competitive%20Programming%20%7C%20Systems%20Design" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:c65bff&height=260&section=header&text=Aakash%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=B.Tech%20%7C%20DSA%20%26%20Competitive%20Programming%20%7C%20Systems%20Design&descAlignY=52&descSize=17" width="100%">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Building+O(1)+Systems+with+Elegant+Code;ESP32+%7C+IoT+%7C+Embedded+Systems;SDE+Internship+Ready+%26+Driven" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Building+O(1)+Systems+with+Elegant+Code;ESP32+%7C+IoT+%7C+Embedded+Systems;SDE+Internship+Ready+%26+Driven" />
   </a>
 </p>
 
@@ -40,6 +40,42 @@ Currently grinding competitive programming (500+ LeetCode, active Codeforces) wh
 | **Embedded Systems** | C, ESP32, Arduino, RFID |
 | **Version Control** | Git, GitHub (collaborative workflows) |
 | **Dev Environment** | Linux, VS Code, CMake |
+
+### 🌳 Tech Stack Tree
+
+```mermaid
+graph TD
+    A[Tech Stack] --> B[Languages]
+    A --> C[Systems & Embedded]
+    A --> D[Tools & Workflow]
+    A --> E[Practice Arenas]
+
+    B --> B1[C++ — Primary]
+    B --> B2[Python]
+    B --> B3[Java]
+    B --> B4[C]
+
+    C --> C1[ESP32]
+    C --> C2[RFID]
+    C --> C3[Cache Design — LRU / LFU]
+
+    D --> D1[Git]
+    D --> D2[GitHub]
+    D --> D3[Linux]
+    D --> D4[VS Code]
+    D --> D5[CMake]
+
+    E --> E1[LeetCode]
+    E --> E2[Codeforces]
+    E --> E3[CodeChef]
+    E --> E4[GeeksforGeeks]
+
+    style A fill:#8E54E9,color:#fff,stroke:#4776E6,stroke-width:2px
+    style B fill:#4776E6,color:#fff
+    style C fill:#4776E6,color:#fff
+    style D fill:#4776E6,color:#fff
+    style E fill:#4776E6,color:#fff
+```
 
 ---
 
@@ -135,12 +171,18 @@ Currently grinding competitive programming (500+ LeetCode, active Codeforces) wh
   <img width="70%" src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/aakasho65a">
+    <img src="https://gfgstatscard.vercel.app/aakasho65a?theme=dark" alt="GeeksforGeeks Stats" />
+  </a>
+</p>
+
 | Platform | Profile | Stats |
 |----------|---------|-------|
 | **LeetCode** | [aakashkumar2005](https://leetcode.com/aakashkumar2005) | 500+ problems, Hard tier |
 | **Codeforces** | [aakashkumar2005](https://codeforces.com/profile/aakashkumar2005) | Active participant, Blue rating target |
 | **CodeChef** | [aakashk7092](https://www.codechef.com/users/aakashk7092) | Contest regular |
-| **GeeksforGeeks** | [aakasho65a](https://www.geeksforgeeks.org/user/aakasho65a/) | DSA tutorials & solutions |
+| **GeeksforGeeks** | [aakasho65a](https://www.geeksforgeeks.org/profile/aakasho65a) | DSA tutorials & solutions |
 | **GitHub** | [aakashk7092](https://github.com/aakashk7092) | Project portfolio & experiments |
 
 ---
@@ -172,11 +214,13 @@ Currently grinding competitive programming (500+ LeetCode, active Codeforces) wh
   </picture>
 </p>
 
+> 🎨 Recolored to a vivid blue → purple gradient matching the header — see `snake.yml` for the updated workflow. Re-run the "Generate Snake" action once to apply.
+
 ---
 
 ## 🎓 Education
 
-**B.Tech in Computer Science & Engineering**  
+**B.Tech in Computer Science & Engineering**
 Invertis University, Bareilly | Currently Enrolled
 
 **Focus Areas:**
@@ -188,11 +232,11 @@ Invertis University, Bareilly | Currently Enrolled
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=8e54e9&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
   <i>Always open to SDE internship opportunities, technical collaborations, and DSA discussions.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c65bff,50:8E54E9,100:4776E6&height=120&section=footer" width="100%"/>
