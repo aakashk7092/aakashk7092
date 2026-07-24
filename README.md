@@ -1,238 +1,198 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Aakash%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20SDE%20Intern%20Ready&descAlignY=55&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Aakash%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20%7C%20DSA%20%26%20Competitive%20Programming%20%7C%20Systems%20Design" width="100%">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=700&lines=C%2B%2B+Competitive+Programmer;Data+Structures+%26+Algorithms+Expert;IoT+%26+System+Design+Enthusiast;Building+Production-Grade+Solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Building+O(1)+Systems+with+Elegant+Code;ESP32+%7C+IoT+%7C+Embedded+Systems;SDE+Internship+Ready+%26+Driven" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/aakashkumar2005"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/aakashkumar2005"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/aakashk7092"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="mailto:aakashk7092@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/aakashk7092"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/aakashk7092"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/aakashkumar2005"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/aakashkumar2005"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="mailto:aakashk7092@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+**B.Tech CSE student** at **Invertis University, Bareilly**, obsessed with understanding how systems work at every layer—from O(1) cache design to embedded hardware. I build solutions that are **fast**, **correct**, and **elegant**.
+
+Currently grinding competitive programming (500+ LeetCode, active Codeforces) while exploring **systems-level concepts**: cache eviction policies, memory optimization, IoT protocols. On track for **SDE internships 2026**.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,git,github,linux,vscode,cmake" />
 </p>
 
----
-
-## 🎯 Executive Summary
-
-I'm a **B.Tech student** with a proven track record in **competitive programming**, **system design**, and **embedded systems**. Currently preparing for **SDE internships (2026)**, with deep expertise in **C++ optimization**, **Data Structures**, and **IoT applications**. 
-
-**Key Highlights:**
-- 🏆 **Active Competitive Programmer** — 500+ problems on LeetCode, consistent Codeforces participant
-- 💾 **System Design Focus** — LRU/LFU Caches, Memory Management, Optimization
-- 🛠️ **Full-Stack Development** — C++, Python, Embedded Systems (ESP32)
-- 🚀 **Production-Ready Code** — GitHub profile demonstrates clean, documented projects
-
----
-
-## 💡 Core Competencies
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>🔧 Technical Skills</b><br/>
-      • C++ (Advanced)<br/>
-      • Data Structures & Algorithms<br/>
-      • System Design Patterns<br/>
-      • Embedded Systems (ESP32)<br/>
-      • Linux & Git Workflows<br/>
-      • Python (Scripting & Automation)
-    </td>
-    <td align="center" width="50%">
-      <b>⚡ Problem-Solving</b><br/>
-      • Competitive Programming<br/>
-      • Complexity Analysis<br/>
-      • Code Optimization<br/>
-      • Real-World System Building<br/>
-      • Hardware Integration<br/>
-      • Debugging & Performance Tuning
-    </td>
-  </tr>
-</table>
+| **Focus** | **Tools & Languages** |
+|-----------|----------------------|
+| **Primary** | C++ (OOP, STL, system programming) |
+| **Competitive Programming** | C++, problem-solving at scale |
+| **Scripting & Automation** | Python |
+| **Embedded Systems** | C, ESP32, Arduino, RFID |
+| **Version Control** | Git, GitHub (collaborative workflows) |
+| **Dev Environment** | Linux, VS Code, CMake |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1️⃣ **LRU Cache Implementation — O(1) Performance**
-**[🔗 View Repository](https://github.com/aakashk7092/lru-cache)**
+<details open>
+<summary><b>🗄️ LRU Cache Implementation (C++)</b></summary>
+<br>
 
-A production-grade **Least-Recently-Used Cache** built in C++ with **O(1)** get/put/evict operations using a **HashMap + Doubly Linked List** architecture.
+**What it does:** O(1) Least-Recently-Used cache using **HashMap + Doubly Linked List**.
 
-**What Recruiters Should Know:**
-- ✅ Demonstrates deep understanding of **data structure optimization**
-- ✅ Handles **edge cases** and **thread safety** considerations
-- ✅ Includes **comprehensive documentation** and **unit tests**
-- ✅ Shows **system design thinking** — real interview question
+**Why it matters:**
+- Demonstrates deep understanding of **data structure optimization**
+- Solves a real **system design interview problem**
+- Shows mastery of **hash maps, linked lists, and time complexity analysis**
+- Handles edge cases: eviction, duplicate keys, order preservation
 
-`C++` • `Hash Maps` • `Linked Lists` • `System Design` • `Time Complexity: O(1)`
+**Key metrics:** `O(1)` get/put/evict | `O(capacity)` space | Full test suite
 
----
+**Tags:** `C++` `Hash Map` `Linked List` `System Design` `O(1) Time`
 
-### 2️⃣ **LFU Cache — Frequency Tracking with O(1) Operations**
-**[🔗 View Repository](https://github.com/aakashk7092/lfu-cache)**
+[→ View on GitHub](https://github.com/aakashk7092)
+</details>
 
-Extended LRU design to track **access frequency** with **LRU as tiebreaker**. All operations remain **O(1)**.
+<details>
+<summary><b>📊 LFU Cache with Frequency Tracking (C++)</b></summary>
+<br>
 
-**What Recruiters Should Know:**
-- ✅ Shows ability to **combine multiple data structures** elegantly
-- ✅ Demonstrates **competitive programming** background
-- ✅ Solves **LeetCode Hard** level problem
-- ✅ Fully commented and **interview-ready**
+**What it does:** Extended LRU to track **access frequency** with **LRU as tiebreaker**. All operations remain **O(1)**.
 
-`C++` • `Frequency Tracking` • `Cache Eviction` • `Advanced DSA`
+**Why it matters:**
+- Shows ability to **combine multiple data structures** for competing constraints
+- Requires reasoning about **frequency maps, min-heap logic, and eviction ordering**
+- Real **LeetCode Hard** problem (460) solved optimally
+- Demonstrates **competitive programming** caliber
 
----
+**Key metrics:** `O(1)` all operations | Tested on edge cases | Clean, documented code
 
-### 3️⃣ **ESP32 RFID Asset Tracking System — IoT Project**
-**[🔗 View Repository](https://github.com/aakashk7092/esp32-rfid-tracker)**
+**Tags:** `C++` `Frequency Tracking` `Advanced DSA` `Competitive Programming` `Cache Eviction`
 
-Real-world **hardware + software integration** project using **ESP32 microcontroller** and **RFID modules** to track and log asset movement.
+[→ View on GitHub](https://github.com/aakashk7092)
+</details>
 
-**What Recruiters Should Know:**
-- ✅ **Hands-on embedded systems** experience
-- ✅ Bridges **software** and **hardware worlds**
-- ✅ Shows **practical IoT knowledge**
-- ✅ Real deployment experience — not theoretical
+<details>
+<summary><b>📡 ESP32 RFID Asset Tracking System (IoT Project)</b></summary>
+<br>
 
-`ESP32` • `RFID` • `C++` • `IoT` • `Embedded Systems` • `Hardware Integration`
+**What it does:** Real-world **hardware + software** build using ESP32 microcontroller + RFID reader to track and log asset movement in real-time.
 
----
+**Why it matters:**
+- **Hands-on embedded systems** experience—not just theory
+- Bridges the gap between **software and hardware worlds**
+- Demonstrates **IoT protocol knowledge**: serial communication, sensor integration, edge processing
+- End-to-end system thinking: sensors → microcontroller → logging → reporting
 
-### 4️⃣ **Competitive Programming Repository — LeetCode Solutions**
-**[🔗 View Repository](https://github.com/aakashk7092/dsa-leetcode)**
+**Key metrics:** Full integration tested | Real deployment experience | Production-grade code
 
-**500+ problems** organized by **topic** with **optimal solutions** and **complexity analysis**.
+**Tags:** `ESP32` `RFID` `C++` `IoT` `Embedded Systems` `Hardware` `Edge Computing`
 
-**Topics Covered:**
-- Arrays & Strings
-- Linked Lists & Trees
-- Dynamic Programming (50+ problems)
-- Graphs & BFS/DFS
-- Sliding Window & Two Pointers
-- Heap & Priority Queue
+[→ View on GitHub](https://github.com/aakashk7092)
+</details>
+
+<details>
+<summary><b>🧩 Competitive Programming Repository (LeetCode DSA)</b></summary>
+<br>
+
+**What it does:** **500+ LeetCode problems** organized by **topic**, each with **optimal C++ solution** and **complexity analysis**.
+
+**Why it matters:**
+- Shows disciplined approach to **learning at scale**
+- Problem taxonomy reveals **pattern recognition** across DSA topics
+- Reference material for **interview prep**—organized for quick review, not scattered one-offs
+- Demonstrates consistency and commitment to **skill development**
+
+**Topics:**
+- Arrays & Strings (Sliding Window, Two Pointers)
+- Linked Lists & Trees (DFS, BFS, Recursion)
+- Dynamic Programming (Memoization, Tabulation)
+- Graphs (Dijkstra, Topological Sort, Union-Find)
+- Heaps & Priority Queues
 - Bit Manipulation
 
-`C++` • `DSA Mastery` • `Interview Prep` • `Pattern Recognition`
+**Tags:** `C++` `DSA Mastery` `500+ Problems` `Interview Ready` `Pattern Recognition`
+
+[→ View on GitHub](https://github.com/aakashk7092)
+</details>
 
 ---
 
-## 📊 Technical Stack
+## 📊 Competitive Programming Profiles
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode,cmake,arduino" />
+  <img width="70%" src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | C++ (Primary), Python, C |
-| **Paradigms** | OOP, Functional, System Programming |
-| **Data Structures** | Hash Maps, Trees, Graphs, Heaps, Tries |
-| **Algorithms** | DP, DFS/BFS, Greedy, Sorting, Binary Search |
-| **Tools** | Git, GitHub, VS Code, CMake, Linux |
-| **Embedded** | ESP32, Arduino, RFID, IoT Protocols |
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| **LeetCode** | [aakashkumar2005](https://leetcode.com/aakashkumar2005) | 500+ problems, Hard tier |
+| **Codeforces** | [aakashkumar2005](https://codeforces.com/profile/aakashkumar2005) | Active participant, Blue rating target |
+| **CodeChef** | [aakashk7092](https://www.codechef.com/users/aakashk7092) | Contest regular |
+| **GeeksforGeeks** | [aakasho65a](https://www.geeksforgeeks.org/user/aakasho65a/) | DSA tutorials & solutions |
+| **GitHub** | [aakashk7092](https://github.com/aakashk7092) | Project portfolio & experiments |
 
 ---
 
-## 🏆 Competitive Programming Profile
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="80%" src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" />
-</p>
-
-### Platform Statistics
-
-| Platform | Profile | Status |
-|----------|---------|--------|
-| **LeetCode** | [aakashkumar2005](https://leetcode.com/aakashkumar2005) | 500+ Problems, Hard ◊◊◊ |
-| **Codeforces** | [aakashkumar2005](https://codeforces.com/profile/aakashkumar2005) | Active Participant |
-| **CodeChef** | [aakashk7092](https://www.codechef.com/users/aakashk7092) | Contest Regular |
-| **GitHub** | [aakashk7092](https://github.com/aakashk7092) | Project Portfolio |
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27" />
-  <img height="165" src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight&hide_border=true&stroke=667eea" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashk7092&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakashk7092&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashk7092&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashk7092/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashk7092/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aakashk7092/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashk7092/aakashk7092/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashk7092/aakashk7092/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aakashk7092/aakashk7092/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
 ---
 
-## 🎓 Academic Background
+## 🎓 Education
 
-<table>
-  <tr>
-    <td align="center"><b>B.Tech</b><br/>Computer Science<br/>🎯 CGPA: 8.5+</td>
-    <td align="center"><b>Class 12</b><br/>Science Stream<br/>📊 95%</td>
-    <td align="center"><b>Class 10</b><br/>CBSE Board<br/>⭐ 96%</td>
-  </tr>
-</table>
+**B.Tech in Computer Science & Engineering**  
+Invertis University, Bareilly | Currently Enrolled
 
----
-
-## 💼 What I'm Looking For
-
-✅ **SDE Internships 2026** — Passionate about building scalable systems  
-✅ **Full-time opportunities** in backend, systems, or embedded software  
-✅ **Collaborative teams** that value clean code and problem-solving  
-✅ **Learning-focused roles** with mentorship from experienced engineers
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aakash-kumar-aa3093315/"><b>LinkedIn</b></a> •
-  <a href="mailto:aakashk7092@gmail.com"><b>Email</b></a> •
-  <a href="https://github.com/aakashk7092"><b>GitHub</b></a> •
-  <a href="https://leetcode.com/aakashkumar2005"><b>LeetCode</b></a>
-</p>
+**Focus Areas:**
+- Data Structures & Algorithms
+- System Design & Architecture
+- Embedded Systems & IoT
+- Competitive Programming
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=aakashk7092&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
-  <i>Always open to internship opportunities, collaborations, and technical discussions.</i><br/>
-  <i>Let's build something extraordinary together! 🚀</i>
+  <i>Always open to SDE internship opportunities, technical collaborations, and DSA discussions.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100:764ba2,0:667eea&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
