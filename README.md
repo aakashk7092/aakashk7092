@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:c65bff&height=260&section=header&text=Aakash%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20%7C%20DSA%20%26%20Competitive%20Programming%20%7C%20Systems%20Design" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:8E54E9,100:c65bff&height=260&section=header&text=Aakash%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=B.Tech%20CSE%20Student%20-%20Aspiring%20Software%20Engineer&descAlignY=52&descSize=17" width="100%">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Optimizing+Systems+and+Data+Structures;ESP32+%7C+IoT+%7C+Embedded+Systems;SDE+Internship+Ready" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+DSA+%7C+Competitive+Programming;Open+Source+Enthusiast+%7C+GSoC+Aspirant;Building+O(1)+Systems+with+Clean+Code;Consistent+Learner+%7C+Aspiring+SDE" />
   </a>
 </p>
 
@@ -32,21 +32,50 @@ B.Tech CSE student at **Invertis University, Bareilly**. Focused on C++, Data St
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,nodejs,express,mongodb,git,github,linux,vscode,cmake" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,git,github,linux,vscode,cmake" />
 </p>
 
-### By Category
-
-| **Category** | **Technologies** |
+| Focus | Tools & Languages |
 |---|---|
-| **Languages** | C++ (primary), Python, Java, C |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Database** | MongoDB, SQL |
-| **Core CS** | Data Structures, Algorithms, OOP, DBMS |
-| **System Design** | LRU/LFU Caches, Design Patterns, Cache Eviction |
-| **Dev Tools** | Git, GitHub, Linux, VS Code, CMake, Docker |
-| **Embedded Systems** | ESP32, Arduino, RFID, IoT Protocols |
-| **Competitive Programming** | LeetCode, CodeChef, GeeksforGeeks, Codeforces |
+| Primary | C++ |
+| Also using | Python, Java, C |
+| Systems | Cache design (LRU/LFU) |
+| Version Control | Git, GitHub |
+| Dev Environment | Linux, VS Code, CMake |
+
+### 🌳 Tech Stack Tree
+
+```mermaid
+graph TD
+    A[Tech Stack] --> B[Languages]
+    A --> C[Systems Focus]
+    A --> D[Tools and Workflow]
+    A --> E[Practice Arenas]
+
+    B --> B1[C++ Primary]
+    B --> B2[Python]
+    B --> B3[Java]
+    B --> B4[C]
+
+    C --> C1[Cache Design LRU / LFU]
+
+    D --> D1[Git]
+    D --> D2[GitHub]
+    D --> D3[Linux]
+    D --> D4[VS Code]
+    D --> D5[CMake]
+
+    E --> E1[LeetCode]
+    E --> E2[CodeChef]
+    E --> E3[GeeksforGeeks]
+    E --> E4[Codeforces]
+
+    style A fill:#8E54E9,color:#fff,stroke:#4776E6,stroke-width:2px
+    style B fill:#4776E6,color:#fff
+    style C fill:#4776E6,color:#fff
+    style D fill:#4776E6,color:#fff
+    style E fill:#4776E6,color:#fff
+```
 
 ---
 
@@ -56,82 +85,44 @@ B.Tech CSE student at **Invertis University, Bareilly**. Focused on C++, Data St
 <summary><b>🗄️ LRU Cache Implementation (C++)</b></summary>
 <br>
 
-**What it does:** O(1) Least-Recently-Used cache using **HashMap + Doubly Linked List**.
+O(1) Least-Recently-Used cache using a HashMap + Doubly Linked List.
 
-**Why it matters:**
-- Demonstrates deep understanding of **data structure optimization**
-- Solves a real **system design interview problem**
-- Shows mastery of **hash maps, linked lists, and time complexity analysis**
-- Handles edge cases: eviction, duplicate keys, order preservation
+**Tags:** `C++` `Hash Map` `Linked List` `System Design`
 
-**Key metrics:** `O(1)` get/put/evict | `O(capacity)` space | Full test suite
-
-**Tags:** `C++` `Hash Map` `Linked List` `System Design` `O(1) Time`
-
-[→ View on GitHub](https://github.com/aakashk7092)
+[→ View Repo](https://github.com/aakashk7092/LRU-Cache-DSA-Library)
 </details>
 
 <details>
 <summary><b>📊 LFU Cache with Frequency Tracking (C++)</b></summary>
 <br>
 
-**What it does:** Extended LRU to track **access frequency** with **LRU as tiebreaker**. All operations remain **O(1)**.
+Extended the LRU design to track access frequency with LRU as a tiebreaker, keeping all operations O(1).
 
-**Why it matters:**
-- Shows ability to **combine multiple data structures** for competing constraints
-- Requires reasoning about **frequency maps, min-heap logic, and eviction ordering**
-- Real **LeetCode Hard** problem (460) solved optimally
-- Demonstrates **competitive programming** caliber
+**Tags:** `C++` `Frequency Tracking` `Cache Eviction`
 
-**Key metrics:** `O(1)` all operations | Tested on edge cases | Clean, documented code
-
-**Tags:** `C++` `Frequency Tracking` `Advanced DSA` `Competitive Programming` `Cache Eviction`
-
-[→ View on GitHub](https://github.com/aakashk7092)
+[→ View Repo](https://github.com/aakashk7092/LFU-Cache-CPP)
 </details>
 
 <details>
-<summary><b>📡 ESP32 RFID Asset Tracking System (IoT Project)</b></summary>
+<summary><b>🧩 LeetCode DSA Repository</b></summary>
 <br>
 
-**What it does:** Real-world **hardware + software** build using ESP32 microcontroller + RFID reader to track and log asset movement in real-time.
+LeetCode C++ solutions organized by data structure/topic for quick review rather than scattered one-offs.
 
-**Why it matters:**
-- **Hands-on embedded systems** experience—not just theory
-- Bridges the gap between **software and hardware worlds**
-- Demonstrates **IoT protocol knowledge**: serial communication, sensor integration, edge processing
-- End-to-end system thinking: sensors → microcontroller → logging → reporting
+**Tags:** `C++` `Data Structures` `Algorithms`
 
-**Key metrics:** Full integration tested | Real deployment experience | Production-grade code
-
-**Tags:** `ESP32` `RFID` `C++` `IoT` `Embedded Systems` `Hardware` `Edge Computing`
-
-[→ View on GitHub](https://github.com/aakashk7092)
+[→ View Repo](https://github.com/aakashk7092/leetcode-cpp-dsa)
 </details>
 
 <details>
-<summary><b>🧩 Competitive Programming Repository (LeetCode DSA)</b></summary>
+<summary><b>⚔️ Codeforces Problems</b></summary>
 <br>
 
-**What it does:** **500+ LeetCode problems** organized by **topic**, each with **optimal C++ solution** and **complexity analysis**.
+Contest and practice problem solutions.
 
-**Why it matters:**
-- Shows disciplined approach to **learning at scale**
-- Problem taxonomy reveals **pattern recognition** across DSA topics
-- Reference material for **interview prep**—organized for quick review, not scattered one-offs
-- Demonstrates consistency and commitment to **skill development**
+**Tags:** `C++` `Competitive Programming`
 
-**Topics:**
-- Arrays & Strings (Sliding Window, Two Pointers)
-- Linked Lists & Trees (DFS, BFS, Recursion)
-- Dynamic Programming (Memoization, Tabulation)
-- Graphs (Dijkstra, Topological Sort, Union-Find)
-- Heaps & Priority Queues
-- Bit Manipulation
-
-**Tags:** `C++` `DSA Mastery` `500+ Problems` `Interview Ready` `Pattern Recognition`
-
-[→ View on GitHub](https://github.com/aakashk7092)
+[→ View Repo](https://github.com/aakashk7092/CODE-FORCES-PROBLEMS)
 </details>
 
 ---
@@ -142,25 +133,39 @@ B.Tech CSE student at **Invertis University, Bareilly**. Focused on C++, Data St
   <img width="70%" src="https://leetcard.jacoblin.cool/aakashkumar2005?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| **GitHub** | [aakashk7092](https://github.com/aakashk7092) | Active developer |
-| **LeetCode** | [aakashkumar2005](https://leetcode.com/aakashkumar2005) | 500+ problems, Hard tier |
-| **CodeChef** | [aakashk7092](https://www.codechef.com/users/aakashk7092) | 305 problems solved |
-| **GeeksforGeeks** | [aakasho65a](https://www.geeksforgeeks.org/profile/aakasho65a/) | 84 problems solved |
-| **Codeforces** | [aakashkumar2005](https://codeforces.com/profile/aakashkumar2005) | Active participant |
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/aakasho65a">
+    <img src="https://gfgstatscard.vercel.app/aakasho65a?theme=dark" alt="GeeksforGeeks Stats" />
+  </a>
+</p>
+
+| Difficulty (GeeksforGeeks) | Solved |
+|---|---|
+| Basic | 37 |
+| Easy | 35 |
+| Medium | 12 |
+| Hard | 0 |
+| **Total** | **84** |
+
+| Platform | Profile | Notes |
+|---|---|---|
+| **GitHub** | [aakashk7092](https://github.com/aakashk7092) | 25 repositories |
+| **LeetCode** | [aakashkumar2005](https://leetcode.com/aakashkumar2005) | Rank 54,421, 20 badges earned including a 365-day activity badge |
+| **CodeChef** | [aakashk7092](https://www.codechef.com/users/aakashk7092) | 305 problems solved, Silver Problem Solver badge |
+| **GeeksforGeeks** | [aakasho65a](https://www.geeksforgeeks.org/profile/aakasho65a) | 84 problems solved |
+| **Codeforces** | [aakashkumar2005](https://codeforces.com/profile/aakashkumar2005) | Unrated, early stage on this platform |
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=aakashk7092&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=aakashk7092&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=aakashk7092&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aakashk7092&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -183,8 +188,8 @@ B.Tech CSE student at **Invertis University, Bareilly**. Focused on C++, Data St
 
 ## 🎓 Education
 
-**B.Tech in Computer Science & Engineering**  
-Invertis University, Bareilly | Currently Enrolled
+**B.Tech in Computer Science & Engineering**
+Invertis University, Bareilly
 
 ---
 
